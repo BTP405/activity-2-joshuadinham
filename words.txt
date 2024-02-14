@@ -1,0 +1,9 @@
+Hey there! 
+I need your help with something.
+I have a text file that needs a bit of tweaking.
+It's a paragraph with 10 sentences
+each containing 2 to 5 words. 
+Oh, and each sentence should be separated by a newline character. 
+I want it to sound conversational, you know? 
+Can you assist me with this? 
+Thanks in advance!
